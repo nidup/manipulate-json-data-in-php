@@ -1,6 +1,6 @@
 # Manipulate JSON Data in PHP 🐘
 
-Code examples for the tutorial [How to Read, Encode, Decode and Write Excel Files in PHP](https://www.nidup.io/blog/manipulate-json-files-in-php).
+Code examples for the tutorial [How to Read, Decode, Encode, and Write JSON Files in PHP](https://www.nidup.io/blog/manipulate-json-files-in-php).
 
 The code is packaged as a simple Symfony application with cli commands.
 
